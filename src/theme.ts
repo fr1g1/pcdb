@@ -6,4 +6,5 @@ export const theme = createTheme({
     headings: {
         fontFamily: "Roboto, sans-serif",
     },
+    primaryColor: "lime",
 })
